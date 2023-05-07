@@ -7,6 +7,10 @@ export const GlobalStyles = createGlobalStyle`
   }
   body {
     margin: 0;
+    background-color: black;
+    color: aqua;
+    font-size: 32px;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
