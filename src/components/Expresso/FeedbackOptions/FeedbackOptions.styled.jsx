@@ -23,6 +23,7 @@ export const Button = styled.button`
   font-weight: 700;
   border: 1px solid tomato;
   border-radius: 12px;
+  text-transform: capitalize;
 
   &:hover,
   :focus {
